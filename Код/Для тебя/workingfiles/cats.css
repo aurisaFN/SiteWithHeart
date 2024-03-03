@@ -1,0 +1,21 @@
+body {
+
+    color: white;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    border: azure;
+    height: 100%;
+    width: 100%;
+
+}
+a {
+    margin: auto;
+    padding: 50px;
+    height: 80%;
+    width: 80%;
+    font-size: 40px;
+    font-family: Snell Roundhand, cursive;
+    font-weight: 900;
+    color: deeppink;
+}

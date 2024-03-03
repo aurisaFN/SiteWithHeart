@@ -1,0 +1,64 @@
+body {
+    background-color: black;
+    color: white;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    border: azure;
+    height: 100%;
+    width: 100%;
+
+    background-image: linear-gradient(to right, #ff8177 0%, #ff867a 0%, #ff8c7f 21%, #f99185 52%, #cf556c 78%, #b12a5b 100%);
+
+
+
+
+}
+#main-text {
+    margin: auto;
+    padding: 30px;
+    height: 80%;
+    width: 80%;
+    font-size: 20px;
+    border: solid;
+    border-radius: 40px;
+    border-color: white;
+    font-family: Snell Roundhand, cursive;
+    font-weight: 900;
+
+
+
+}
+#text-footer
+{
+    margin: auto;
+    padding: 30px;
+    height: 80%;
+    width: 80%;
+    font-size: 20px;
+    font-family: Snell Roundhand, cursive;
+    font-style: italic;
+
+
+}
+#imgabove{
+    margin: auto;
+    padding: 20px;
+    border: blueviolet;
+
+}
+
+button{
+    border:solid;
+    border-radius: 40px;
+    border-color: white;
+    margin:40px;
+    bottom: 40px;
+    height:100%;
+    width:30%;
+    background-position: center;
+    background-color:white;
+    font-family: Snell Roundhand, cursive;
+    font-style: italic;
+
+}
